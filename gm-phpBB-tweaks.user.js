@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        phpBB unread posts tweaks
+// @name        phpBB tweaks
 // @namespace   prcek
-// @description More usability for phpBB unread posts
+// @description More usability for phpBB
 // @include     */search.php?search_id=unreadposts*
 // @version     1
 // @grant       none
