@@ -81,6 +81,7 @@ function readTopic(event)
 		}
 	);
 	//console.log('ajax started');
+	$(liElement).css("overflow","hidden");
 	$(liElement).css("height","2px");
 	// do not handle this event by default handler
 	event.preventDefault();
